@@ -1,0 +1,14 @@
+/Users/rekod/IdeaProjects/lab5-client/src/main/java/commands/Friends.java
+/Users/rekod/IdeaProjects/lab5-client/src/main/java/commands/Exit.java
+/Users/rekod/IdeaProjects/lab5-client/src/main/java/restapi/IPresenceService.java
+/Users/rekod/IdeaProjects/lab5-client/src/main/java/commands/Available.java
+/Users/rekod/IdeaProjects/lab5-client/src/main/java/commands/ICommand.java
+/Users/rekod/IdeaProjects/lab5-client/src/main/java/restapi/User.java
+/Users/rekod/IdeaProjects/lab5-client/src/main/java/restapi/ClientRestAPI.java
+/Users/rekod/IdeaProjects/lab5-client/src/main/java/commands/Talk.java
+/Users/rekod/IdeaProjects/lab5-client/src/main/java/com/MessageSender.java
+/Users/rekod/IdeaProjects/lab5-client/src/main/java/com/ProcessIncomingRequest.java
+/Users/rekod/IdeaProjects/lab5-client/src/main/java/commands/Busy.java
+/Users/rekod/IdeaProjects/lab5-client/src/main/java/restapi/PresenceService.java
+/Users/rekod/IdeaProjects/lab5-client/src/main/java/commands/Broadcast.java
+/Users/rekod/IdeaProjects/lab5-client/src/main/java/com/MessageListener.java

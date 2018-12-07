@@ -1,0 +1,14 @@
+restapi/ClientRestAPI.class
+commands/ICommand.class
+commands/Broadcast.class
+commands/Exit.class
+restapi/PresenceService.class
+com/MessageSender.class
+com/ProcessIncomingRequest.class
+com/MessageListener.class
+restapi/IPresenceService.class
+commands/Friends.class
+restapi/User.class
+commands/Available.class
+commands/Busy.class
+commands/Talk.class
